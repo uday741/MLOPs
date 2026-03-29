@@ -2,4 +2,3 @@ data/
 .dvc
 logs
 models
-dvc.lock
